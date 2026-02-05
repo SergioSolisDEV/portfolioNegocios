@@ -71,7 +71,7 @@ export const projectsData = [
         alt: "Vista Principal",
       },
       {
-        url: "/images/projects/restaurante/restzauranteMenu.jpg",
+        url: "/images/projects/restaurante/restauranteMenu.jpg",
         alt: "Menú Digital",
       },
       {
