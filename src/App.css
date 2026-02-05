@@ -1,0 +1,8 @@
+.tag {
+  padding: 0.4rem 1rem;
+  background: rgba(74, 144, 226, 0.1);
+  border: 1px solid rgba(74, 144, 226, 0.3);
+  border-radius: 20px;
+  font-size: 0.875rem;
+  color: var(--accent);
+}
